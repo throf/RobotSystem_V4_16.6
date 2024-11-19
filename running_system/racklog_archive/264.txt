@@ -1,0 +1,10 @@
+[Sample]
+SampleID: 264
+Position: 3
+Created: 2024-07-18 16:16:48
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,2min
+Step2: Permblock,3min

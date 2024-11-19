@@ -64,5 +64,5 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     # Change the folder path to the directory containing your txt files
-    folder_path = "C:/Users/TTS/Desktop/RobotSystem_V4/racklog_dummy"
+    folder_path = "C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/racklog_dummy"
     process_files(folder_path)

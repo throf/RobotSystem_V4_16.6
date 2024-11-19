@@ -1,0 +1,9 @@
+[Sample]
+SampleID: 335
+Position: 4
+Created: 2024-10-11 14:49:40
+Status: Step1,180min
+
+[Steps]
+Step0: Fix,0min
+Step1: MeOHBaBB,180min

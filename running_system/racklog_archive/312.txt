@@ -1,0 +1,18 @@
+[Sample]
+SampleID: 312
+Position: 5
+OrangePos: was7
+Created: 2024-10-04 19:29:11	
+Status: Step9,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: MeOH50,30min
+Step2: MeOH70,30min
+Step3: MeOH95,30min
+Step4: MeOH100,100min
+Step5: MeOH100,120min
+Step6: MeOHBaBB,30min
+Step7: Orange,120min
+Step8: BaBB,100min
+Step9: BaBB,100min

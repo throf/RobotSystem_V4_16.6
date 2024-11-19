@@ -1,0 +1,14 @@
+[Sample]
+SampleID: 201
+Position: 3
+ColorPos: was5
+Created: 2024-07-02 11:13:13
+Status: Step5,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: Permblock,456min
+Step2: PBS,33min
+Step3: PBS,45min
+Step4: Perm,44min
+Step5: Permblock,2345min

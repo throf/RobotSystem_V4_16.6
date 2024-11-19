@@ -1,0 +1,11 @@
+[Sample]
+SampleID: 275
+Position: 1
+Orange: 7
+Created: 2024-07-24 21:07:18
+Status: Step2,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: Orange,1min
+Step2: MeOH50,1min

@@ -1,0 +1,12 @@
+[Sample]
+SampleID: 161
+Position: 3
+ColorPos: 6
+Created: 2024-06-07 14:55:55
+Status: Step3,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: Eth50%,12min
+Step2: BaBB,22min
+Step3: BaBB,10min

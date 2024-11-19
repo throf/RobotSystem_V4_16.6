@@ -1,0 +1,13 @@
+[Sample]
+SampleID: 269
+Position: 2
+ColorPos: was1
+Created: 2024-07-22 14:51:08
+Status: Step4,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: Color,1min
+Step2: Eth50,1min
+Step3: Eth75,1min
+Step4: Eth100,1min

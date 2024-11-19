@@ -1,0 +1,10 @@
+[Sample]
+SampleID: 292
+Position: 2
+Created: 2024-07-29 16:36:52
+Status: Step2,1min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,1min
+Step2: PBS,1min

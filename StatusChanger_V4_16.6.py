@@ -121,12 +121,12 @@ def check_and_update_files(folder_path, second_file_path, handbreak_path):
 
 
 # Define the folder path
-folder_path = f'C:/Users/TTS/Desktop/RobotSystem_V4/racklog_dummy'
+folder_path = f'C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/racklog_dummy'
 
-handbreak_path = "C:/Users/TTS/Desktop/RobotSystem_V4/WorkingDocs/handbreak.txt"
+handbreak_path = "C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/WorkingDocs/handbreak.txt"
 
 # Define the path of the second text file
-second_file_path = f"C:/Users/TTS/Desktop/RobotSystem_V4/WorkingDocs/ProtoV4.txt"
+second_file_path = f"C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/WorkingDocs/ProtoV4.txt"
 
 # Run the check_and_update_files function in a loop
 check_and_update_files(folder_path, second_file_path, handbreak_path)

@@ -1,0 +1,9 @@
+[Sample]
+SampleID: 144
+Position: 2
+Created: 2024-06-06 20:27:26
+Status: Step0,0min
+
+[Steps]
+Step0: PBS, 9min
+Step1: Eth75%, 9min

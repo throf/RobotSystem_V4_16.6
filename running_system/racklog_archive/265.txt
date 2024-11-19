@@ -1,0 +1,19 @@
+[Sample]
+SampleID: 265
+Position: 2
+ColorPos: 1
+Created: 2024-07-19 16:24:47
+Status: Step10,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,1min
+Step2: Perm,1min
+Step3: Permblock,1min
+Step4: Eth50,1min
+Step5: Eth75,1min
+Step6: Eth95,1min
+Step7: Eth100,1min
+Step8: EthBaBB,1min
+Step9: BaBB,1min
+Step10: Color,1min

@@ -1,0 +1,15 @@
+[Sample]
+SampleID: 167
+Position: 4
+ColorPos: 5
+Created: 2024-06-12 14:10:36
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,234min
+Step2: Eth50%,234min
+Step3: Eth75%,3min
+Step4: BaBB,4min
+Step5: BaBB,3min
+Step6: BaBB,43min

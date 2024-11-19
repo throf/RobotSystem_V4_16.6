@@ -1,0 +1,15 @@
+[Sample]
+SampleID: 272
+Position: 2
+Orange: yes
+ColorPos: 4
+Created: 2024-07-24 17:10:52
+Status: Step5,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,1min
+Step2: Orange,2min
+Step3: Color,1min
+Step4: MeOH100,5min
+Step5: Orange,5min

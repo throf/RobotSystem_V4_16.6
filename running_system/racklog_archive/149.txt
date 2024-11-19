@@ -1,0 +1,12 @@
+[Sample]
+SampleID: 149
+Position: 2
+ColorPos: 2
+Created: 2024-06-06 20:57:59
+Status: Step0,0min
+
+[Steps]
+Step0: Fix, 0min
+Step1: Perm, 2min
+Step2: Permblock, 32min
+Step3: Perm, 43min

@@ -1,0 +1,9 @@
+[Sample]
+SampleID: 176
+Position: 1
+Created: 2024-06-12 19:10:44
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,babababamin

@@ -1,0 +1,9 @@
+[Sample]
+SampleID: 143
+Position: 4
+Created: 2024-06-06 20:18:34
+Status: Step0,0min
+
+[Steps]
+Step0: Perm, 4min
+Step1: Permblock, 3min

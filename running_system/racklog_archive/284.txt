@@ -1,0 +1,11 @@
+[Sample]
+SampleID: 284
+Position: 3
+OrangePos: was7
+Created: 2024-07-25 13:28:19
+Status: Step2,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: Orange,1min
+Step2: Perm,1min

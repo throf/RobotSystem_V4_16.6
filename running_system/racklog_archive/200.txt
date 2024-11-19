@@ -1,0 +1,18 @@
+[Sample]
+SampleID: 200
+Position: 1
+Created: 2024-06-27 16:05:36
+Status: Step9,479min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,720min
+Step2: Perm,720min
+Step3: Permblock,720min
+Step4: Eth50,720min
+Step5: PBS,720min
+Step6: Perm,720min
+Step7: Permblock,720min
+Step8: Eth50,720min
+Step9: PBS,720min
+Step10: PBS,720min

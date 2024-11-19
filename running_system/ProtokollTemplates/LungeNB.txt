@@ -1,0 +1,25 @@
+[Sample]
+SampleID: 
+Position: 
+OrangePos: 7
+ColorPos: 
+Created: 	
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: Perm,180min
+Step2: Permblock,180min
+Step3: Color,240min
+Step4: PBS,60min
+Step5: PBS,60min
+Step6: PBS,60min
+Step7: MeOH50,30min
+Step8: MeOH70,30min
+Step9: MeOH95,30min
+Step10: MeOH100,100min
+Step11: MeOH100,120min
+Step12: MeOHBaBB,30min
+Step13: Orange,120min
+Step14: BaBB,100min
+Step15: BaBB,100min

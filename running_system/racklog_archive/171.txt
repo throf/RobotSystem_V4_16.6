@@ -1,0 +1,9 @@
+[Sample]
+SampleID: 171
+Position: 4
+Created: 2024-06-12 18:49:36
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: Eth50%,9min

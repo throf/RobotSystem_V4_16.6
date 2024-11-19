@@ -1,0 +1,3794 @@
+Start
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE7
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE9
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE1
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAC
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAEB
+PlaceholderAPos
+PlaceholderDW
+PlaceholderDPos
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAEB
+PlaceholderDPos
+PlaceholderFlushOrganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE1
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAC
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE7
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE9
+PlaceholderDPos
+PlaceholderFlushNonorganic
+PlaceholderAE5
+PlaceholderDPos
+PlaceholderFlushNonorganic
+Aspirate nothing
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump BaBBcrap
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump BaBBcrap
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump BaBBcrap
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate Color
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump regular Chem
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate and dump BaBBcrap
+Aspirate BaBBmix
+DispenseFromSampleNeedle2
+FlushOrganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic

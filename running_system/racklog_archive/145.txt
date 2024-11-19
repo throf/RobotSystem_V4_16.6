@@ -1,0 +1,8 @@
+[Sample]
+SampleID: 145
+Position: 4
+Created: 2024-06-06 20:28:29
+Status: Step0,0min
+
+[Steps]
+Step0: Perm, 1min

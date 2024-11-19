@@ -7,10 +7,10 @@ from PIL import Image, ImageTk  # You need to install Pillow for this
 import threading  # Import threading module
 
 # Folder paths
-folder_path = f"C:/Users/TTS/Desktop/RobotSystem_V4/racklog_dummy"
-archive_folder = f"C:/Users/TTS/Desktop/RobotSystem_V4/racklog_archive"
-protocol_templates_path = f"C:/Users/TTS/Desktop/RobotSystem_V4/ProtokollTemplates"
-id_file_path = f"C:/Users/TTS/Desktop/RobotSystem_V4/WorkingDocs/last_id.txt"
+folder_path = f"C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/racklog_dummy"
+archive_folder = f"C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/racklog_archive"
+protocol_templates_path = f"C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/ProtokollTemplates"
+id_file_path = f"C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/WorkingDocs/last_id.txt"
 
 def get_last_sample_id():
     if os.path.exists(id_file_path):
@@ -617,7 +617,7 @@ def toggle_play_pause():
     is_paused = not is_paused
     play_pause_button.config(text="Play" if is_paused else "Pause")
 
-    file_path = "C:/Users/TTS/Desktop/RobotSystem_V4/WorkingDocs/handbreak.txt"
+    file_path = "C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/WorkingDocs/handbreak.txt"
 
     if is_paused:
         with open(file_path, 'w') as file:
@@ -632,7 +632,7 @@ is_paused = False
 
 def show_image():
     # Load the image
-    image_path = "C:/Users/TTS/Desktop/RobotSystem_V4/WorkingDocs/Limaa_logo2.png"  # Replace with your image path
+    image_path = "C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/WorkingDocs/Limaa_logo2.png"  # Replace with your image path
     img = Image.open(image_path)
     img = img.resize((115, 45), Image.LANCZOS)  # Resize the image using Image.LANCZOS
     img = ImageTk.PhotoImage(img)

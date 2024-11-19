@@ -1,0 +1,26 @@
+[Sample]
+SampleID: 
+Position: 
+ColorPos: 
+Created: 	
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,31min
+Step2: PBS,32min
+Step3: PBS,33min
+Step4: Perm,4min
+Step5: Permblock,35min
+Step6: Color,36min
+Step7: PBS,37min
+Step8: PBS,38min
+Step9: PBS,39min
+Step10: MeOH50,40min
+Step11: MeOH70,41min
+Step12: MeOH95,42min
+Step13: MeOH100,43min
+Step14: MeOH100,44min
+Step15: MeOHBaBB,45min
+Step16: BaBB,46min
+Step17: BaBB,47min

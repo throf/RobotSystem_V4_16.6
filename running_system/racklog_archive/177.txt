@@ -1,0 +1,9 @@
+[Sample]
+SampleID: 177
+Position: 4
+Created: 2024-06-12 19:23:11
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,8min

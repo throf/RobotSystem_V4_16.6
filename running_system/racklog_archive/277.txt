@@ -1,0 +1,12 @@
+[Sample]
+SampleID: 277
+Position: 1
+OrangePos: was7
+ColorPos: was2
+Created: 2024-07-25 12:36:18
+Status: Step2,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: Orange,1min
+Step2: PBS,2min

@@ -2,8 +2,8 @@ import os
 import tkinter as tk
 
 # Folder paths
-folder_path = f"C:/Users/TTS/Desktop/RobotSystem_V4/racklog_dummy"
-colormemory_file = f"C:/Users/TTS/Desktop/RobotSystem_V4/WorkingDocs/colormemory.txt"
+folder_path = f"C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/racklog_dummy"
+colormemory_file = f"C:/Users/TTS/PycharmProjects/RobotSystem_V4_16.6/running_system/WorkingDocs/colormemory.txt"
 
 # Global variable to track active color positions
 active_color_positions = set()

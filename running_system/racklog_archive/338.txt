@@ -1,0 +1,19 @@
+[Sample]
+SampleID: 338
+Position: 1
+OrangePos: was7
+ColorPos: 1
+Created: 2024-10-23 18:03:56	
+Status: Step8,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: MeOH50,270min
+Step2: MeOH50,30min
+Step3: MeOH70,30min
+Step4: MeOH95,30min
+Step5: MeOH100,100min
+Step6: MeOH100,120min
+Step7: MeOHBaBB,30min
+Step8: Color,120min
+

@@ -1,0 +1,8 @@
+[Sample]
+SampleID: 148
+Position: 5
+Created: 2024-06-06 20:56:36
+Status: Step0,0min
+
+[Steps]
+Step0: , 1min

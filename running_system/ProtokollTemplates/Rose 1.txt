@@ -1,0 +1,16 @@
+[Sample]
+SampleID: 
+Position: 
+Created: 	
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: MeOH50,31min
+Step2: MeOH70,30min
+Step3: MeOH95,30min
+Step4: MeOH100,100min
+Step5: MeOH100,100min
+Step6: MeOHBaBB,100min
+Step7: BaBB,100min
+Step8: BaBB,100min

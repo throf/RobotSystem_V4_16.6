@@ -1,0 +1,9 @@
+[Sample]
+SampleID: 332
+Position: 3
+Created: 2024-10-11 14:49:07
+Status: Step1,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: BaBB,180min

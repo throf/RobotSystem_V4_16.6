@@ -1,0 +1,10 @@
+[Sample]
+SampleID: 156
+Position: 5
+ColorPos: 8
+Created: 2024-06-07 14:02:55
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: Color,1min

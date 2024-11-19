@@ -1,0 +1,14 @@
+[Sample]
+SampleID: 
+Position: 
+OrangePos: 7
+Created: 	
+Status: Step1,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: MeOH50,270min
+Step2: Orange,1440min
+Step3: BaBB,720min
+Step4: BaBB,720min
+

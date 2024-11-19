@@ -1,0 +1,11 @@
+[Sample]
+SampleID: 
+Position: 
+Created: 	
+Status: Step0,0min
+
+[Steps]
+Step0: Fix,0min
+Step1: PBS,31min
+Step2: PBS,32min
+

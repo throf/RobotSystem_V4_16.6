@@ -1,0 +1,9 @@
+[Sample]
+SampleID: 290
+Position: 2
+Created: 2024-07-29 16:34:44
+Status: Step1,1min
+
+[Steps]
+Step0: Fix,0min
+Step1: MeOH50,2min
