@@ -3792,3 +3792,11 @@ Aspirate nothing
 Aspirate Regular
 Dispense from SampleNeedle1
 FlushNonorganic
+Aspirate nothing
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic
+Aspirate and dump regular Chem
+Aspirate Regular
+Dispense from SampleNeedle1
+FlushNonorganic

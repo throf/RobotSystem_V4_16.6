@@ -1,0 +1,4 @@
+[Task]
+SamplePosition: S1
+ChemPosition: C4
+WasteType: Regular
